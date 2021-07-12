@@ -1,0 +1,6 @@
+fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+mco_libcb.c:55:5:LIBCB_GetProcImgSize	4	static
+mco_libcb.c:64:6:LIBCB_InitLeds	24	static
+mco_libcb.c:106:6:LIBCB_SwitchLeds	16	static
+mco_libcb.c:122:5:LIBCB_GetNvolSize	4	static
+mco_libcb.c:132:5:LIBCB_GetNvolStart	4	static

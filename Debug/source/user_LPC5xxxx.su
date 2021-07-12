@@ -1,0 +1,7 @@
+user_LPC5xxxx.c:43:6:MCOUSER_FatalError	32	static
+user_LPC5xxxx.c:83:6:MCOUSER_ResetApplication	8	static
+user_LPC5xxxx.c:124:6:MCOUSER_ResetCommunication	32	static
+user_LPC5xxxx.c:184:6:MCOUSER_NMTChange	16	static
+user_LPC5xxxx.c:210:10:MCOUSER_GetSerial	16	static
+user_LPC5xxxx.c:230:6:MCOUSER_HeartbeatLost	16	static
+user_LPC5xxxx.c:254:6:MCOUSER_TimeOfDay	16	static

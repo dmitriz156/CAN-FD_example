@@ -1,0 +1,12 @@
+user_cbdata.c:34:6:MCOUSER_RPDOReceived	16	static
+user_cbdata.c:48:6:MCOUSER_ODData	16	static
+user_cbdata.c:70:9:MCOUSER_TPDOReady	16	static
+user_cbdata.c:94:6:MCOUSER_SYNCReceived	4	static
+user_cbdata.c:109:10:MCOUSER_SDORdPI	16	static
+user_cbdata.c:127:6:MCOUSER_SDORdAft	16	static
+user_cbdata.c:147:10:MCOUSER_SDOWrPI	16	static
+user_cbdata.c:165:6:MCOUSER_SDOWrAft	16	static
+user_cbdata.c:186:9:MCOUSER_AppSDOReadInit	16	static
+user_cbdata.c:207:6:MCOUSER_AppSDOReadComplete	16	static
+user_cbdata.c:231:9:MCOUSER_AppSDOWriteInit	16	static
+user_cbdata.c:254:9:MCOUSER_AppSDOWriteComplete	16	static

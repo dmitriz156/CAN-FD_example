@@ -1,0 +1,6 @@
+core_cm33.h:2324:22:__NVIC_SetPriority	16	static
+core_cm33.h:2773:26:SysTick_Config	16	static
+main.c:43:6:USER_ProcessApp	16	static
+main.c:71:5:main	16	static
+main.c:125:6:Init_HW	8	static
+main.c:187:6:SysTick_Handler	8	static

@@ -1,0 +1,6 @@
+mcohw_com_generic.c:48:6:COM_Init	4	static
+mcohw_com_generic.c:56:6:COM_Flush	4	static
+mcohw_com_generic.c:66:9:COM_GetByte	24	static
+mcohw_com_generic.c:88:9:COM_SendByte	24	static
+mcohw_com_generic.c:107:9:COM_GetErrorStatus	16	static
+mcohw_com_generic.c:118:9:COM_TxEmpty	4	static
